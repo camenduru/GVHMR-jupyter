@@ -9,6 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GVHMR-jupyter/blob/main/GVHMR_jupyter.ipynb) | GVHMR_jupyter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GVHMR-jupyter/blob/main/GVHMR_blender_jupyter.ipynb) | GVHMR_blender_jupyter
 
+### 📋 Tutorial
+blender import: https://github.com/zju3dv/GVHMR/issues/10
+
 ### 🧬 Code
 https://github.com/zju3dv/GVHMR
 
