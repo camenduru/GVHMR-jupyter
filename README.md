@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GVHMR-jupyter/blob/main/GVHMR_jupyter.ipynb) | GVHMR_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GVHMR-jupyter/blob/main/GVHMR_blender_jupyter.ipynb) | GVHMR_blender_jupyter
 
 ### 🧬 Code
 https://github.com/zju3dv/GVHMR
